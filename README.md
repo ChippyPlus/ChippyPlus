@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there, I'm ChippyPlus 👋
+I'm a software developer with a passion for building robust and efficient systems. When I'm not coding, you can find me exploring the inner workings of computers or tackling a new low-level challenge.
 
-<!--
-**ChippyPlus/ChippyPlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## Languages & Tools I use
 
-Here are some ideas to get you started:
+My primary passion lies with Kotlin because its the greatest thing ever  
+I have an extreme love for Google Cloud Platform because its perfect (And the cheapest)
+I'm also very comfortable with C++ but not used often ( I severely lack the knowelage on macos framworks) 
+As for Python, let's just say it's a tool I use when I have to, the language that fucking twinks use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Kotlin (My favorite! ❤️)
+* C++
+* Python (Useless)
+
+## What I'm Interested In
+
+My favourite parts of computer science are the low level implementations and system design of operating systems!!!  
+##### Im to lazy to actually write more soo
+
