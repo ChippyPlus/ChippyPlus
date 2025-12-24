@@ -18,3 +18,4 @@ As for Python, let's just say it's a tool I use when I have to, the language tha
 My favourite parts of computer science are the low level implementations and system design of operating systems!!!  
 ##### Im to lazy to actually write more soo
 
+Made with Gemini because I dont care ✨
